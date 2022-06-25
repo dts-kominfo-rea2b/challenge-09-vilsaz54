@@ -4,7 +4,7 @@ import React from 'react';
 const Header = () => {
     return (
         <div>
-        <h1 className='Title'>Call a Fiend</h1>
+        <h1 className='title'>Call a Fiend</h1>
         <p className='SubTitle'>Your Friendly Contact app</p>
         </div>
     )
